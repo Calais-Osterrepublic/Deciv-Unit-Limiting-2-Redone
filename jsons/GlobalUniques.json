@@ -1,14 +1,14 @@
 	{
 		"name":"Global uniques",
 		"uniques":[
-			"[-1] Unit Supply per [4] population [in all cities]",
-			"[-1] Unit Supply per city",
+			"[-1] Unit Supply per [2] population [in all cities]",
+			"[+1] Unit Supply per [10] population [in all cities]",
 			
-			"Provides [10] [Military Support] <when below [20] [Military Support]>",
-			"Provides [10] [Military Support] <when below [20] [Military Support]> <when at war>",
-			"Provides [10] [Military Support] <when below [20] [Military Support]> <after adopting [Sovereignty]>",
+			"Provides [10] [Military Support] <when below [10] [Military Support]> <when at war>",
+			"Provides [10] [Military Support] <when below [50] [Military Support]> <after adopting [Sovereignty]>",
+			"Provides [10] [Military Support] <when below [100] [Military Support]> <after adopting [Supremacy]> <when at war>",
 			"Provides [5] [Military Support] <when below [50] [Military Support]> <when not at war>",
-			"Provides [3] [Military Support] <when below [30] [Military Support]> <when not at war> <after adopting [Constitution]>",
+			"Provides [5] [Military Support] <when below [30] [Military Support]> <when not at war> <after adopting [Constitution]>",
 		
 
 			"[-10]% Strength <when below [10] [Military Support]>",
@@ -21,7 +21,7 @@
 			"[-10]% Strength <when below [-7] [Military Support]>",
 			"[-10]% Strength <when below [-8] [Military Support]>",
                         "[-10]% Strength <when below [-9] [Military Support]>",
-			"[10]% Strength <when above [40] [Military Support]>",
+			"[+20]% Strength <when above [40] [Military Support]>",
 
 			"Rebel units may spawn <when below [-10] [Military Support]>",
 			"[+100]% Unhappiness from [Population] [in all cities] <when below [-10] [Military Support]>",
