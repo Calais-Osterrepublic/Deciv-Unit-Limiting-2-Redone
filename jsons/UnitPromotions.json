@@ -64,7 +64,7 @@
 		"name":"Nullifier Support",
 		"uniques":[
 			"Comment [This unit nullifies all Military Support debuffs on this unit]",
-			"[+10]% Strength <when below [0] [Military Support]> <hidden from users>",
+			"[+10]% Strength <when below [10] [Military Support]> <hidden from users>",
 			"[+10]% Strength <when below [-1] [Military Support]> <hidden from users>",
 			"[+10]% Strength <when below [-2] [Military Support]> <hidden from users>",
 			"[+10]% Strength <when below [-3] [Military Support]> <hidden from users>",
@@ -83,7 +83,7 @@
 		"uniques":[
 			"Comment [Costs 20 Military Support to use]",
 
-			"Consumes [1] [Military Support]"
+			"Consumes [1] [Military Support]",
 			
 			"Instantly consumes [20] [Military Support] <when attacking> <hidden from users>",
 			"Cannot attack <when below [20] [Military Support]> <hidden from users>"
